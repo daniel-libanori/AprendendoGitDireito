@@ -12,3 +12,4 @@ Assim que eu terminar
 Escrevi aqui o final do master enquanto fiz o primeiro branch
 
 Modificação feita para testar a linha de comando
+Adicionei mais uma linha só pra ficar legal
