@@ -1,4 +1,4 @@
-Eu to testando
+﻿Eu to testando
 Testando eu estou
 Pra testar tem que testar
 Posso fazer isso a noite toda
@@ -11,4 +11,4 @@ Escrito estará
 Assim que eu terminar
 Escrevi aqui o final do master enquanto fiz o primeiro branch
 
-
+Modificação feita para testar a linha de comando
